@@ -15,6 +15,13 @@ window 用户建议使用[railsinstaller](http://railsinstaller.org/)
 
 为了方便使用，此示例使用了[rake](http://rake.rubyforge.org/)  
 如果`feature`下存在文件`searchGoogle.rb`，则在本目录下执行`rake searchGoogle`即可  
+例如：
+
+```
+git clone git://github.com/lyuehh/watir-examples.git
+cd watir-examples
+rake searchGoogle
+```
 
 # 更多的参考资料
 
